@@ -308,6 +308,6 @@ uk-service-booking-platform/
 
 ## 11. Author & Portfolio Context
 
-- **Developer**: Sri Charan
+- **Developer**: Sricharan
 - **Target Roles**: UK Java Software Developer / Backend Developer / Full-Stack Developer
 - **Design Philosophy**: Clean architecture, strong business invariants, transactional integrity, and containerised deployments.
